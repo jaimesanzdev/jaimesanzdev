@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jaime
+# Hi, I'm Jaime
 
 🎓 **Math & Computer Science student** (University of Murcia & SDSU)  
 🎮 Passionate about **Game Development**, **Artificial Intelligence**, and **Software Development**  
