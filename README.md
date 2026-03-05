@@ -18,3 +18,11 @@
 ## 🌐 Connect with me
 📧 [Email](mailto:jaime.sanz.dev@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/jaimesanzdev)  
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jaimesanzdev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jaimesanzdev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
